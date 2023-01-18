@@ -1,2 +1,4 @@
 # Array-initialization-
-Array creation in JS 
+
+var arr = [1, 2, 3, 4];
+var arr2 = new Array(1, 2, 3, 4);
